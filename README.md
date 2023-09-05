@@ -173,7 +173,7 @@ Loops are a complicated relic of archaic programming languages. In WhenWillProgr
 
 For full installation instructions, please listen to the following audio.
 
-[Installation instructions.webm](./files/installation.webm)
+<video alt="Installation instructions" src="files/installation.webm"></video>
 
 ## Booleans
 
