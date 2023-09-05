@@ -173,7 +173,7 @@ Loops are a complicated relic of archaic programming languages. In WhenWillProgr
 
 For full installation instructions, please listen to the following audio.
 
-![Installation instructions](https://raw.githubusercontent.com/TodePond/WhenWillProgrammersStopMakingDecisionsForOurSocietyAndJustLeaveUsAloneAlsoHackerNewsIsAVileWebsite/9102b7c05e142937f53b7d96346506cdadee4687/files/installation.mov)
+![Installation instructions](./files/installation.mov)
 
 ## Booleans
 
